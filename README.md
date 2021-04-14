@@ -4,7 +4,7 @@ This is a sample application for the [Integration and Verification Techniques](h
 
 The application is simplified and deliberately contains bugs.
 
-This line is from branch-B
+This line is from branch-A and branch-B as well
 
 ## Getting started
 
